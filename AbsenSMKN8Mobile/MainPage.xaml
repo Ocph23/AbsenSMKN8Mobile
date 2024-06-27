@@ -14,11 +14,8 @@
                 SemanticProperties.Description="SMKN 8 LOGO" />
 
             <StackLayout>
-                <Entry Placeholder="username" TextColor="Gray" PlaceholderColor="DarkBlue"></Entry>
+                <Entry Placeholder="username" TextColor="Gray" PlaceholderColor="Wheat"></Entry>
                 <Entry Placeholder="pasword" IsPassword="True" TextColor="Gray" PlaceholderColor="DarkBlue"></Entry>
-
-
-
             </StackLayout>
 
        

@@ -11,7 +11,14 @@
 
         private void OnCounterClicked(object sender, EventArgs e)
         {
-            Shell.Current.Navigation.PushAsync(new Page1());
+                
+            //proses login
+            //send user and passwword to website 
+            // result -> Siswa
+
+
+
+            Shell.Current.Navigation.PushAsync(new BreedPage());
         }
     }
 
