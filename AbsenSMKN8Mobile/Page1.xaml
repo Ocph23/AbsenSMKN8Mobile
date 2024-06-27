@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AbsenSMKN8Mobile.Page1"
+             Title="Absensi Hari Ini">
+   
+    <ScrollView Orientation="Vertical">
+
+        
+      
+        <StackLayout Orientation="Vertical" Padding="8" Spacing="5">
+
+            <Frame BorderColor="Black" CornerRadius="8" Padding="5" WidthRequest="325" HorizontalOptions="StartAndExpand" >
+                <Label Text="Haikal Arya Duta" />
+            </Frame>
+            <Frame BorderColor="Black" CornerRadius="8" Padding="5" WidthRequest="325" HorizontalOptions="StartAndExpand" >
+                <Label Text="Muhammad Andhika" />
+            </Frame>
+            <Frame BorderColor="Black" CornerRadius="8" Padding="5" WidthRequest="325" HorizontalOptions="StartAndExpand" >
+                <Label Text="Mikail A. S." />
+            </Frame>
+            <Frame BorderColor="Black" CornerRadius="8" Padding="5" WidthRequest="325" HorizontalOptions="StartAndExpand" >
+                <Label Text="Yundison Towolom" />
+            </Frame>
+
+           
+
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage> 
